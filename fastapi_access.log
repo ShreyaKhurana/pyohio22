@@ -1,0 +1,19 @@
+2022-07-04 01:44:04 | INFO | fastapi | ****************** Starting Server *****************
+2022-07-04 01:44:23 | INFO | fastapi | ****************** Starting Server *****************
+2022-07-04 01:44:24 | INFO | fastapi | 2022-07-04 01:44:24 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-04 01:44:25 | INFO | fastapi | 2022-07-04 01:44:25 GET http://127.0.0.1:8000/openapi.json STATUS: 200
+2022-07-04 04:33:34 | INFO | fastapi | ****************** Starting Server *****************
+2022-07-04 04:33:48 | INFO | fastapi | 2022-07-04 04:33:48 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-04 04:33:48 | INFO | fastapi | 2022-07-04 04:33:48 GET http://127.0.0.1:8000/openapi.json STATUS: 200
+2022-07-04 04:33:57 | INFO | fastapi | 2022-07-04 04:33:57 GET http://127.0.0.1:8000/persons/mike/eggos/?num=1 STATUS: 200
+2022-07-04 04:34:12 | INFO | fastapi | 2022-07-04 04:34:12 GET http://127.0.0.1:8000/persons/el STATUS: 200
+2022-07-13 16:39:48 | INFO | fastapi | 2022-07-13 16:39:48 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-13 16:39:49 | INFO | fastapi | 2022-07-13 16:39:49 GET http://127.0.0.1:8000/openapi.json STATUS: 200
+2022-07-13 16:54:08 | INFO | fastapi | 2022-07-13 16:54:08 GET http://127.0.0.1:8000/eggos/?num=1&max_num=10 STATUS: 200
+2022-07-14 00:13:29 | INFO | fastapi | 2022-07-14 00:13:29 GET http://127.0.0.1:8000/docs/ STATUS: 307
+2022-07-14 00:13:29 | INFO | fastapi | 2022-07-14 00:13:29 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-14 00:13:29 | INFO | fastapi | 2022-07-14 00:13:29 GET http://127.0.0.1:8000/openapi.json STATUS: 200
+2022-07-17 02:39:15 | INFO | fastapi | 2022-07-17 02:39:15 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-17 02:39:15 | INFO | fastapi | 2022-07-17 02:39:15 GET http://127.0.0.1:8000/openapi.json STATUS: 200
+2022-07-17 02:44:02 | INFO | fastapi | 2022-07-17 02:44:02 GET http://127.0.0.1:8000/docs STATUS: 200
+2022-07-17 02:44:03 | INFO | fastapi | 2022-07-17 02:44:03 GET http://127.0.0.1:8000/openapi.json STATUS: 200
